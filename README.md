@@ -1,4 +1,4 @@
-<h1 align="center">Dkum 👋, I'm Thanaphat Thr (DEE)</h1>
+<h1 align="center">Dkub 👋, I'm Thanaphat Thr (DEE)</h1>
 <h3 align="center">A developer with an interest in AI technology and software development.</h3>
 
 - 📫 How to reach me **https://www.facebook.com/thanaphat.tenghirun.12/**
