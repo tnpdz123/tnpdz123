@@ -1,21 +1,21 @@
-<h1 align="center">สวัสดีครับ 👋, ผม Thanaphat Thr (DEE)</h1>
-<h3 align="center">นักพัฒนาที่หลงใหลใน AI และเทคโนโลยีซอฟต์แวร์</h3>
+<h1 align="center">Hello 👋, I'm Thanaphat Thr (DEE)</h1>
+<h3 align="center">A passionate developer focused on AI and IOT</h3>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/t3YlogZLsjoAAAAd/embedded-security-for-internet-of-things.gif" alt="Coding" width="500"/>
+  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media1.tenor.com/m/t3YlogZLsjoAAAAd/embedded-security-for-internet-of-things.gif)" alt="Coding" width="500"/>
 </p>
 
 ---
 
-### 💡 เกี่ยวกับตัวผม:
-- 🌱 ตอนนี้กำลังพัฒนาความรู้ด้าน **AI และ IoT**
-- 🎯 เป้าหมายระยะสั้น: พัฒนาทักษะใน **Data Engineering และ Software Development**
-- 📫 ติดต่อผมได้ที่ **[Facebook](https://www.facebook.com/thanaphat.tenghirun.12/)**
-- 📄 ดูประวัติการทำงานของผม [ที่นี่](https://www.canva.com/design/DAGMJ-YUGrE/tA5NF2QZOFQyVqghzq6IQQ/edit)
+### 💡 About Me:
+- 🌱 Currently learning and exploring **AI and IoT**.
+- 🎯 Short-term goal: Enhance my skills in **AI and IoT**.
+- 📫 Reach me at **[Facebook](https://www.facebook.com/thanaphat.tenghirun.12/)**
+- 📄 Check out my resume [here](https://www.canva.com/design/DAGMJ-YUGrE/tA5NF2QZOFQyVqghzq6IQQ/edit)
 
 ---
 
-### 🔗 เชื่อมต่อกับผม:
+### 🔗 Connect with Me:
 <p align="left">
 <a href="https://fb.com/thanaphat thr" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/></a>
 <a href="https://instagram.com/russdee__" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ เทคโนโลยีและเครื่องมือที่ใช้:
+### 🛠️ Technologies and Tools:
 <p align="left">
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
@@ -37,14 +37,14 @@
 
 ---
 
-### 📂 โปรเจคที่น่าสนใจ:
-- **[To-Do List Flutter App](#)**: แอปพลิเคชัน Flutter สำหรับจัดการรายการสิ่งที่ต้องทำ
-- **[AI Pupil Detection](#)**: การพัฒนาโมเดล AI เพื่อตรวจจับตำแหน่งรูม่านตา
-- **[Autonomous Vehicle Project](#)**: ระบบนำทางและหลีกเลี่ยงสิ่งกีดขวางในพื้นที่ปิดด้วย Reinforcement Learning
+### 📂 Notable Projects:
+- **[To-Do List Flutter App](#)**: A Flutter application for managing tasks and to-dos.
+- **[AI Pupil Detection](#)**: Developing an AI model to detect pupil center positions.
+- **[Autonomous Vehicle Project](#)**: Navigation and obstacle avoidance in enclosed areas using Reinforcement Learning.
 
 ---
 
-### 📊 สถิติ GitHub ของผม:
+### 📊 GitHub Statistics:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dee-thr&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dee-thr&theme=radical" alt="GitHub Streak"/>
@@ -52,5 +52,5 @@
 
 ---
 
-### ✨ คติประจำใจ:
-> "เรียนรู้และพัฒนาอย่างต่อเนื่องเพื่อสร้างสิ่งที่ดีกว่า"
+### ✨ Personal Motto:
+> "Learn and grow continuously to create something better."
