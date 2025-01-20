@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer focused on AI and IOT</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media1.tenor.com/m/t3YlogZLsjoAAAAd/embedded-security-for-internet-of-things.gif)" alt="Coding" width="500"/>
+  <img src="https://media1.tenor.com/m/t3YlogZLsjoAAAAd/embedded-security-for-internet-of-things.gif" alt="Coding" width="500"/>
 </p>
 
 ---
