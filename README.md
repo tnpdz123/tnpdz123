@@ -2,7 +2,7 @@
 <h3 align="center">นักพัฒนาที่หลงใหลใน AI และเทคโนโลยีซอฟต์แวร์</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="500"/>
+  <img src="https://media1.tenor.com/m/t3YlogZLsjoAAAAd/embedded-security-for-internet-of-things.gif" alt="Coding" width="500"/>
 </p>
 
 ---
