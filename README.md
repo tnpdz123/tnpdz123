@@ -48,6 +48,9 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dee-thr&show_icons=true&hide=issues&theme=gruvbox" alt="GitHub Stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dee-thr&theme=gruvbox" alt="GitHub Streak" width="48%"/> </p>
 
 ---
+###🚀 Languages & Tools Usage:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dee-thr&layout=compact&theme=gruvbox" alt="Top Languages" width="50%"/> </p>
 
+---
 ### ✨ Personal Motto:
 > "Learn and grow continuously to create something better."
