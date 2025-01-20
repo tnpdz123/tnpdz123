@@ -35,11 +35,11 @@
 
 ---
 
-### 📂 Notable Projects
-- **Project RFID Parking System**: Implemented an RFID system for managing apartment parking.
-- **Project Smart Plant Watering System**: Automated watering system for plants using IoT.
-- **Project Smart Bin System**: Designed a waste management system with automation features.
-- **Project Enhancing the Safety of Driverless Car for Material Transport in Factory Warehouses**: Deep Learning for Obstacle Detection and Avoidance
+### 📂 Notable Projects  
+- **[Project RFID Parking System](https://www.canva.com/design/DAGADuUzcns/gXAK3glkjZL216tDSYmb1g/edit)**: Implemented an RFID system for managing apartment parking.  
+- **[Project Smart Plant Watering System](https://www.canva.com/design/DAF83JSjNBI/utfRvd7B67FuBAbkaQT69g/edit?utm_content=DAF83JSjNBI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**: Automated watering system for plants using IoT.  
+- **[Project Smart Bin System](https://www.canva.com/design/DAGAgz4sdy8/-RqHkVGwDg43GSeAo5jLBQ/edit?utm_content=DAGAgz4sdy8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**: Designed a waste management system with automation features.  
+- **Project Enhancing the Safety of Driverless Car for Material Transport in Factory Warehouses**: Deep Learning for Obstacle Detection and Avoidance.
 
 ---
 
